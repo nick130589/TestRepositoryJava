@@ -30,7 +30,7 @@ public class Person {
     public String toString() {
         return "Person{" +
                 "surname='" + surname + '\'' +
-                ", named='" + name + '\'' +
+                ", name='" + name + '\'' +
                 ", age=" + age +
                 '}';
     }
